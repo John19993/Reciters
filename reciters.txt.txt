@@ -1,0 +1,275 @@
+ "reciters": [
+            {
+                "id": 161,
+                "reciterId": 11,
+                "name": "Khalifah Al Tunaiji",
+                "profilePicture": "images/reciters/11/khalifa-al-tunaiji-profile.jpeg",
+                "coverImage": "images/reciters/11/khalifa-al-tunaiji-cover.jpeg",
+                "bio": "<p>Shaykh Khalifa Al Tunaiji was born in the Emirate of Sharjah, United Arab Emirates. He learnt the holy Qur'an at the City Center of Quran, learning at the hand of Shaykh Ghulam Hussain; he was only thirteen at the time. The Islamic preacher is also known for being one of the Qur'an reciters characterised with a strong singular voice.</p><p>He studied in Madinah at the hand of Shaykh Ibrahim Al-Akhdar one of the readers in mosque of the Masjid An-Nabawi and received a Bachelor’s Degree in Civil Engineering from the University of the United Arab Emirates in 2001.</p><p>Besides his work, Shaykh Khalifa participated in a number of international and national competitions of Quran learning and recitation where he earned good results such as the 12th local competition of the Holy Qur'an, the competition of Sharjah, the international competition of King Abdul Aziz in Makkah and the ninth session of the Dubai International competition.</p><p>There are audio and video versions of Shaykh Khalifa's recitations and teaching of the holy Qur'an that are available throughout the Arab and Islamic world but also episodes of his TV show “Celebrity Readers” that is aired on the Arabic channel Al-Sharjah.</p>",
+                "translatedName": {
+                    "name": "Khalifah Al Tunaiji",
+                    "languageName": "english"
+                },
+                "style": {
+                    "name": "Murattal",
+                    "languageName": "english",
+                    "description": "Murattal is Quranic recitation at a slower pace, used for study and practice."
+                },
+                "qirat": {
+                    "name": "Hafs",
+                    "languageName": "english"
+                }
+            },
+            {
+                "id": 1,
+                "reciterId": 1,
+                "name": "AbdulBaset AbdulSamad",
+                "profilePicture": "images/reciters/1/abdelbasset-profile.jpeg",
+                "coverImage": "images/reciters/1/abdelbasset-cover.jpeg",
+                "bio": "<p>Abdulbasit Abdusamad is a renowned Qur'an reciter born in 1927 in a village called Almara'za in Egypt.</p><p>He learned the Holy Quran at an early age from Shaykh Mohamed El Amir and later from Mohamed Selim Hamada. He entered the National Radio Station in 1951. The first surah he recited was Surah Fater.</p><p>In 1952, Abdulbasit Abdulsamad was appointed official reciter to Al-Imam Achafiî's mosque and then to Al-Imam Al Hussain's mosque in 1985.</p><p>Abdulbasit has left a fortune of high qualified recordings of both the chanted Holy Scripture and the recited one. He was an ambassador of the Holy Qur'an across many countries and the first president of the Egyptian reciter's Bar in 1984.</p><p>Abdulbasit Abdusamad went to many Arab countries to recite the Qur'an in Ramadan such as Saudi Arabia and Syria.</p><p>He died on November the 30th, 1988. May Allah have mercy on his soul, bless him and grant him a place in Jannah.</p>",
+                "translatedName": {
+                    "name": "AbdulBaset AbdulSamad",
+                    "languageName": "english"
+                },
+                "style": {
+                    "name": "Mujawwad",
+                    "languageName": "english",
+                    "description": "Mujawwad is a melodic style of Holy Quran recitation."
+                },
+                "qirat": {
+                    "name": "Hafs",
+                    "languageName": "english"
+                }
+            },
+            {
+                "id": 3,
+                "reciterId": 2,
+                "name": "Abdur-Rahman as-Sudais",
+                "profilePicture": "images/reciters/2/abdul-rahman-al-sudais-profile.jpeg",
+                "coverImage": "images/reciters/2/abdul-rahman-al-sudais-cover.jpeg",
+                "bio": "<p>Abdul Rahman Ibn Abdul Aziz as-Sudais (عبد الرحمن السديس) was born in the city of Qassim, Saudi Arabia in 1962(1382 A.H) he's originally from the Anza clan. He had memorized the Quran by the age of 12 growing up in Riyadh.</p><p>Al-Sudais studied at the Al Muthana Bin Harith Elementary School, and afterward the Riyadh Scientific Institution from which he graduated in 1979 with a grade of excellent. He obtained a degree in Sharia from Riyadh University in 1983 and became an IFK (Islamic Fundamental Knowledge) lecturer after the conclusion of his study. He obtained his Master's in Islamic fundamentals from the Sharia College of Imam Muhammad bin Saud Islamic University in 1987 and received his PhD in Islamic Sharia from Umm al-Qura University in 1995 while working there as an assistant professor after serving at Riyadh University.</p><p>He is respected for his precise, controlled, and particularly emotional recitation of the Qur'an in accordance with Tajweed, the rules of beautiful recitation. He was particularly called upon in the Ramadan Taraweeh prayers of 2006 (1427 AH) to recite the last few surahs of the Qur'an as well as to make the closing Dua followed by the millions of Muslims in Mecca as well as around the World by means of TV or radio.</p><p>In 2005, he received the prize of the Islamic Personality Of the year in the 9th annual Dubai International Holy Quran Award. He is the leading Imam at Masjidil Haram, Makkah.</p>",
+                "translatedName": {
+                    "name": "Abdur-Rahman as-Sudais",
+                    "languageName": "english"
+                },
+                "style": {
+                    "name": "Murattal",
+                    "languageName": "english",
+                    "description": "Murattal is Quranic recitation at a slower pace, used for study and practice."
+                },
+                "qirat": {
+                    "name": "Hafs",
+                    "languageName": "english"
+                }
+            },
+            {
+                "id": 4,
+                "reciterId": 3,
+                "name": "Abu Bakr al-Shatri",
+                "profilePicture": "images/reciters/3/abu-bakr-al-shatri-pofile.jpeg",
+                "coverImage": "images/reciters/3/abu-bakr-al-shatri-cover.jpeg",
+                "bio": "<p>Abu Bakr al-Shatri is born in 1970 in Jeddah (Saudi Arabia), Abu Bakr Ibn Mohamed Al Shatri ( also called Abi Abdarrahmane) is a renowned Saudi Imam and a Qur’an reciter par excellence.</p><p>Abu Bakr Al Shatri grew up in Jeddah and graduated in Holy Qur’an Studies from Cheikh Aymane Rochdi Suwaid in 1996 and then earned a master in accountancy four years later.</p><p>Abu Bakr Al Shatri has participated in numerous Islamic conferences and events and led prayers in many Saudi mosques like Al Rajihi, Said Ibn Jubair (Kandara), Abdullatif Jamil, Attakwa (Al Rawda), AChouiaibi (Assalama). He is currently the imam of Al Furkane Mosque in Hay Annassim, Jeddah.</p>",
+                "translatedName": {
+                    "name": "Abu Bakr al-Shatri",
+                    "languageName": "english"
+                },
+                "style": {
+                    "name": "Murattal",
+                    "languageName": "english",
+                    "description": "Murattal is Quranic recitation at a slower pace, used for study and practice."
+                },
+                "qirat": {
+                    "name": "Hafs",
+                    "languageName": "english"
+                }
+            },
+            {
+                "id": 5,
+                "reciterId": 4,
+                "name": "Hani ar-Rifai",
+                "profilePicture": "images/reciters/4/hani-ar-rifai-profile.jpeg",
+                "coverImage": "images/reciters/4/hani-ar-rifai-cover.jpeg",
+                "bio": "<p>Sheikh Hani Ar-Rifai was born in 1974 in the city of Jeddah, Saudi Arabia. He is currently the Imam and the Khateeb of Anani’s mosque in Jeddah. He is well-known for his unique voice filled with emotions and that attracts a number of believers to listen to his recitations of the Holy Quran.</p><p>The Sheikh grew among a conservative family that accorded much importance to the learning of the Quran. By the age of 12, Sheikh Hani Ar-Rifai had learned all the verses of the holy book.</p><p>He specialized in Islamic Studies at King Abdulaziz University and studied at the hands of the best scholars and sheikhs such as Sheikh Al-alama Abullah Ibnu Bayyah, Sheikh Khaldoun Al-Ahdab and Sheikh Ali Jaber.</p><p>Owing to the emotional and soul-warming rendition of the Book of Allah, Sheikh Hani Ar-Rifai was elected as a&nbsp;special reciter of the Holy Quran in the Royal Court by the Saudi Ministry of Culture and Information. Sheikh participated in numerous religious shows reciting ayahs of the Holy Quran or giving advice. He was also chosen to be the personal reciter of King Fahd Ibnu Abdelaziz Al-Saud from 1998 till his death.</p><p>From 1998 till 2002, the sheikh worked as a teacher of Islamic Studies in different public schools in Saudi Arabia. He was then appointed the director of the legal affairs of King Faysal’s hospital and the Research Center in Jeddah. He was granted the coveted designation as the Director of the legal affairs of King Faysal’s Hospital and the Research Center in Jeddah.</p><p>His Quran recitation was broadcasted on different channels such as “Alfaj”, “Iqra”, “Almajd” or “Ashariqa”.</p>",
+                "translatedName": {
+                    "name": "Hani ar-Rifai",
+                    "languageName": "english"
+                },
+                "style": {
+                    "name": "Murattal",
+                    "languageName": "english",
+                    "description": "Murattal is Quranic recitation at a slower pace, used for study and practice."
+                },
+                "qirat": {
+                    "name": "Hafs",
+                    "languageName": "english"
+                }
+            },
+            {
+                "id": 9,
+                "reciterId": 7,
+                "name": "Mohamed Siddiq al-Minshawi",
+                "profilePicture": "images/reciters/7/mohamed-siddiq-el-minshawi-profile.jpeg",
+                "coverImage": "images/reciters/7/mohamed-siddiq-el-minshawi-cover.jpeg",
+                "bio": "<p>Muhammad Siddiq Al-Minshawi, also simply known as Al-Minshawy or Menshawy, born in Upper Egypt, was a Qur'anic reciter and a Hafiz.</p><p>He is of the same generation as Shaykh Kamil Yusuf al-Bahtimi, and, in fact, he was also a protégé of Shaykh Muhammad Salâmah. His father was also a well-known reciter, and his brother, Shaykh Mahmûd al-Minshâwî, has now established himself as a respected professional reciter in Cairo. Shaykh al-Minshâwî was born in Upper Egypt and established himself as a reciter there before coming to Cairo. He is especially admired for the spirituality, gravity, and dignity of his style</p>",
+                "translatedName": {
+                    "name": "Mohamed Siddiq al-Minshawi",
+                    "languageName": "english"
+                },
+                "style": {
+                    "name": "Murattal",
+                    "languageName": "english",
+                    "description": "Murattal is Quranic recitation at a slower pace, used for study and practice."
+                },
+                "qirat": {
+                    "name": "Hafs",
+                    "languageName": "english"
+                }
+            },
+            {
+                "id": 10,
+                "reciterId": 8,
+                "name": "Sa'ud ash-Shuraim",
+                "profilePicture": "images/reciters/8/saoud-shuraim-profile.jpeg",
+                "coverImage": "images/reciters/8/saoud-shuraim-cover.jpeg",
+                "bio": "<p>Shaykh Saud ibn Ibrahim ibn Muhammad ash-Shuraim was on October the 15th, 1966 in Riyadh, Saudi Arabia. He is one of the prayer leaders and Friday preachers at the Masjid al-Haram in Makkah. A Quranic reciter, he also holds a PhD degree in Sharia (Islamic studies) at the Umm al-Qura University in Makkah.</p><p>Shaykh Shuraim has been leading the Taraweeh prayers during Ramadan in Makkah since 1992.</p>",
+                "translatedName": {
+                    "name": "Sa`ud ash-Shuraym",
+                    "languageName": "english"
+                },
+                "style": {
+                    "name": "Murattal",
+                    "languageName": "english",
+                    "description": "Murattal is Quranic recitation at a slower pace, used for study and practice."
+                },
+                "qirat": {
+                    "name": "Hafs",
+                    "languageName": "english"
+                }
+            },
+            {
+                "id": 2,
+                "reciterId": 1,
+                "name": "AbdulBaset AbdulSamad",
+                "profilePicture": "images/reciters/1/abdelbasset-profile.jpeg",
+                "coverImage": "images/reciters/1/abdelbasset-cover.jpeg",
+                "bio": "<p>Abdulbasit Abdusamad is a renowned Qur'an reciter born in 1927 in a village called Almara'za in Egypt.</p><p>He learned the Holy Quran at an early age from Shaykh Mohamed El Amir and later from Mohamed Selim Hamada. He entered the National Radio Station in 1951. The first surah he recited was Surah Fater.</p><p>In 1952, Abdulbasit Abdulsamad was appointed official reciter to Al-Imam Achafiî's mosque and then to Al-Imam Al Hussain's mosque in 1985.</p><p>Abdulbasit has left a fortune of high qualified recordings of both the chanted Holy Scripture and the recited one. He was an ambassador of the Holy Qur'an across many countries and the first president of the Egyptian reciter's Bar in 1984.</p><p>Abdulbasit Abdusamad went to many Arab countries to recite the Qur'an in Ramadan such as Saudi Arabia and Syria.</p><p>He died on November the 30th, 1988. May Allah have mercy on his soul, bless him and grant him a place in Jannah.</p>",
+                "translatedName": {
+                    "name": "AbdulBaset AbdulSamad",
+                    "languageName": "english"
+                },
+                "style": {
+                    "name": "Murattal",
+                    "languageName": "english",
+                    "description": "Murattal is Quranic recitation at a slower pace, used for study and practice."
+                },
+                "qirat": {
+                    "name": "Hafs",
+                    "languageName": "english"
+                }
+            },
+            {
+                "id": 6,
+                "reciterId": 5,
+                "name": "Mahmoud Khalil Al-Husary",
+                "profilePicture": "images/reciters/5/mahmoud-khalil-al-hussary-profile.png",
+                "coverImage": "images/reciters/5/mahmoud-khalil-al-hussary-cover.png",
+                "bio": "<p>Mahmoud Al-Hussary is a renowned reciter of the Quran. He was born in a village called Shubra Al-Namlah in Tanta, Egypt.</p><p>Mahmoud entered the Quran School at the age of four. At 8, he had already memorized the whole Quran and at 12, he then learned the ten recitations on the Quran from Al-Azhar in 1958.</p><p>Mahmoud Khalil Al-Hussary first recited the Quran in his village mosque. In 1944, he entered the official radio station as reciter where he made his first recitation on 16 February 1944. On August 7, 1948, he was nominated Muazzin (Prayer caller) of Sidi Hamzah Mosque and then a reciter in the same mosque. He was also supervising the recitation centers of the Al Gharbia Governorate.</p><p>In 1949, Mahmoud Al-Hussary was appointed reciter of Sidi Ahmed Al-Badawi of Tanta of Al-Ahmadi Mosque and then of Al-Imam Al Hussein Mosque in Cairo by 1955.</p><p>All along his way, Sheikh Mahmoud obtained various medals and decorations and was honored by numerous Islamic and foreign countries which he visited. He was treated with special care by leaders, kings, and presidents. He received the medal of honor concerning Sciences and Arts from the president Jamal `Abd An-Nasir in 1967 and was elected as president of the Islamic world league of Koran reciters. He had the chance to recite the Quran in front of the American congress and the United Nations. Thanks to his, Allah guided dozens of people during his journeys abroad. He remained, for the rest of his life, a researcher, a writer, a thinker, and of course one of the biggest public figures in Egypt and in the Arab Muslim world.</p>",
+                "translatedName": {
+                    "name": "Mahmoud Khalil Al-Husary",
+                    "languageName": "english"
+                },
+                "style": {
+                    "name": "Murattal",
+                    "languageName": "english",
+                    "description": "Murattal is Quranic recitation at a slower pace, used for study and practice."
+                },
+                "qirat": {
+                    "name": "Hafs",
+                    "languageName": "english"
+                }
+            },
+            {
+                "id": 7,
+                "reciterId": 6,
+                "name": "Mishari Rashid al-`Afasy",
+                "profilePicture": "images/reciters/6/mishary-rashid-alafasy-profile.jpeg",
+                "coverImage": "images/reciters/6/mishary-rashid-alafasy-cover.jpeg",
+                "bio": "<p>Sheikh Mishary bin Rashid Al-Afasy or Mishary Rashid Ghareeb Mohammed Rashed Al-Afasy is a Kuwaiti international-renewed Qari, he is born in Kuwait on September 5th, 1976 ( Sunday 11th of Ramadan 1396 H).</p><p>He studied in the Islamic University of Madinah's College of Quran, specializing in the ten Qira'at and tafsir of the Noble Quran.</p><p>He has read the Quran to Sheikh Ahmed Abdulaziz Al-Zaiat, Sheikh Ibrahim Ali Shahata Al-Samanodei, and Sheikh Abdurarea Radwan.&nbsp;</p><p>He is currently the Imam of Masjid Al-Kabir (Grand Mosque) in Kuwait City, and every Ramadan he leads the Taraweeh prayers in this Mosque.</p>",
+                "translatedName": {
+                    "name": "Mishari Rashid al-`Afasy",
+                    "languageName": "english"
+                },
+                "style": {
+                    "name": "Murattal",
+                    "languageName": "english",
+                    "description": "Murattal is Quranic recitation at a slower pace, used for study and practice."
+                },
+                "qirat": {
+                    "name": "Hafs",
+                    "languageName": "english"
+                }
+            },
+            {
+                "id": 12,
+                "reciterId": 5,
+                "name": "Mahmoud Khalil Al-Husary",
+                "profilePicture": "images/reciters/5/mahmoud-khalil-al-hussary-profile.png",
+                "coverImage": "images/reciters/5/mahmoud-khalil-al-hussary-cover.png",
+                "bio": "<p>Mahmoud Al-Hussary is a renowned reciter of the Quran. He was born in a village called Shubra Al-Namlah in Tanta, Egypt.</p><p>Mahmoud entered the Quran School at the age of four. At 8, he had already memorized the whole Quran and at 12, he then learned the ten recitations on the Quran from Al-Azhar in 1958.</p><p>Mahmoud Khalil Al-Hussary first recited the Quran in his village mosque. In 1944, he entered the official radio station as reciter where he made his first recitation on 16 February 1944. On August 7, 1948, he was nominated Muazzin (Prayer caller) of Sidi Hamzah Mosque and then a reciter in the same mosque. He was also supervising the recitation centers of the Al Gharbia Governorate.</p><p>In 1949, Mahmoud Al-Hussary was appointed reciter of Sidi Ahmed Al-Badawi of Tanta of Al-Ahmadi Mosque and then of Al-Imam Al Hussein Mosque in Cairo by 1955.</p><p>All along his way, Sheikh Mahmoud obtained various medals and decorations and was honored by numerous Islamic and foreign countries which he visited. He was treated with special care by leaders, kings, and presidents. He received the medal of honor concerning Sciences and Arts from the president Jamal `Abd An-Nasir in 1967 and was elected as president of the Islamic world league of Koran reciters. He had the chance to recite the Quran in front of the American congress and the United Nations. Thanks to his, Allah guided dozens of people during his journeys abroad. He remained, for the rest of his life, a researcher, a writer, a thinker, and of course one of the biggest public figures in Egypt and in the Arab Muslim world.</p>",
+                "translatedName": {
+                    "name": "Mahmoud Khalil Al-Husary",
+                    "languageName": "english"
+                },
+                "style": {
+                    "name": "Muallim",
+                    "languageName": "english",
+                    "description": "Muallim is a teaching style recitation of the Holy Quran."
+                },
+                "qirat": {
+                    "name": "Hafs",
+                    "languageName": "english"
+                }
+            },
+            {
+                "id": 173,
+                "reciterId": 6,
+                "name": "Mishari Rashid al-`Afasy",
+                "profilePicture": "images/reciters/6/mishary-rashid-alafasy-profile.jpeg",
+                "coverImage": "images/reciters/6/mishary-rashid-alafasy-cover.jpeg",
+                "bio": "<p>Sheikh Mishary bin Rashid Al-Afasy or Mishary Rashid Ghareeb Mohammed Rashed Al-Afasy is a Kuwaiti international-renewed Qari, he is born in Kuwait on September 5th, 1976 ( Sunday 11th of Ramadan 1396 H).</p><p>He studied in the Islamic University of Madinah's College of Quran, specializing in the ten Qira'at and tafsir of the Noble Quran.</p><p>He has read the Quran to Sheikh Ahmed Abdulaziz Al-Zaiat, Sheikh Ibrahim Ali Shahata Al-Samanodei, and Sheikh Abdurarea Radwan.&nbsp;</p><p>He is currently the Imam of Masjid Al-Kabir (Grand Mosque) in Kuwait City, and every Ramadan he leads the Taraweeh prayers in this Mosque.</p>",
+                "translatedName": {
+                    "name": "Mishari Rashid al-`Afasy",
+                    "languageName": "english"
+                },
+                "style": {
+                    "name": "Murattal",
+                    "languageName": "english",
+                    "description": "Murattal is Quranic recitation at a slower pace, used for study and practice."
+                },
+                "qirat": {
+                    "name": "Hafs",
+                    "languageName": "english"
+                }
+            },
+            {
+                "id": 168,
+                "reciterId": 7,
+                "name": "Mohamed Siddiq al-Minshawi",
+                "profilePicture": "images/reciters/7/mohamed-siddiq-el-minshawi-profile.jpeg",
+                "coverImage": "images/reciters/7/mohamed-siddiq-el-minshawi-cover.jpeg",
+                "bio": "<p>Muhammad Siddiq Al-Minshawi, also simply known as Al-Minshawy or Menshawy, born in Upper Egypt, was a Qur'anic reciter and a Hafiz.</p><p>He is of the same generation as Shaykh Kamil Yusuf al-Bahtimi, and, in fact, he was also a protégé of Shaykh Muhammad Salâmah. His father was also a well-known reciter, and his brother, Shaykh Mahmûd al-Minshâwî, has now established himself as a respected professional reciter in Cairo. Shaykh al-Minshâwî was born in Upper Egypt and established himself as a reciter there before coming to Cairo. He is especially admired for the spirituality, gravity, and dignity of his style</p>",
+                "translatedName": {
+                    "name": "Mohamed Siddiq al-Minshawi",
+                    "languageName": "english"
+                },
+                "style": {
+                    "name": "Kids repeat",
+                    "languageName": "english",
+                    "description": "Kids repeat after the qari"
+                },
+                "qirat": {
+                    "name": "Hafs",
+                    "languageName": "english"
+                }
+            }
+        ],
